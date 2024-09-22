@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HamishpatimTest 1.props" />
+</Project>

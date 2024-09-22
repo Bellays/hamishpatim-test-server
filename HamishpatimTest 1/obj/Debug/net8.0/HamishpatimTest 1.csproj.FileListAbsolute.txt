@@ -1,0 +1,33 @@
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\HamishpatimTest 1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\HamishpatimTest 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\HamishpatimTest 1.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\HamishpatimTest 1.AssemblyInfo.cs
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\HamishpatimTest 1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\HamishpatimTest 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\HamishpatimTest 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\HamishpatimTest 1.exe
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\HamishpatimTest 1.deps.json
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\HamishpatimTest 1.runtimeconfig.json
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\HamishpatimTest 1.dll
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\HamishpatimTest 1.pdb
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\staticwebassets\msbuild.HamishpatimTest 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\staticwebassets\msbuild.build.HamishpatimTest 1.props
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HamishpatimTest 1.props
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HamishpatimTest 1.props
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\scopedcss\bundle\HamishpatimTest 1.styles.css
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\Hamishpa.7F9CFE34.Up2Date
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\HamishpatimTest 1.dll
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\refint\HamishpatimTest 1.dll
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\HamishpatimTest 1.pdb
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\HamishpatimTest 1.genruntimeconfig.cache
+C:\Users\PC\Documents\HamishpatimTest 1\HamishpatimTest 1\obj\Debug\net8.0\ref\HamishpatimTest 1.dll

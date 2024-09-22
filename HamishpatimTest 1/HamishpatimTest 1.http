@@ -1,0 +1,6 @@
+@HamishpatimTest_1_HostAddress = http://localhost:5145
+
+GET {{HamishpatimTest_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
